@@ -51,4 +51,9 @@ def isconsec(a_list):
     return True
 
     # [4,5,6,7]
+
+def githubTest(statement):
+    print("Hello " + statement)
+
+print("stuff")
     
